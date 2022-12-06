@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+
+  background-color: #0E172A;
+  color: white
+}
+
+code {
+  /* font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace; */ 
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
